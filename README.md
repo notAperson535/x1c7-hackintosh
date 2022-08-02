@@ -42,7 +42,7 @@ Now add the values to the `config.plist` file found in the `EFI/OC` directory (y
 | SmUUID          | SystemUUID         |
 | Apple ROM       | ROM                |
 
-The `config.plist` should now look something like this:
+The `config.plist` should now look something like this, there may be some other values, just ignore them:
 
 ```
     <key>MLB</key>
