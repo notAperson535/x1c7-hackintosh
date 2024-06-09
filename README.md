@@ -24,7 +24,7 @@ Next, download [this utility](https://github.com/corpnewt/GenSMBIOS), and open i
  #            MacBookPro15,4 SMBIOS Info               #
 #######################################################
 
-Type:         MacBookPro15,4
+Type:         MacBookPro16,3
 Serial:       FVFYD0SHL40Y
 Board Serial: FVF9101024N0000FB
 SmUUID:       F6C6F37B-F6BF-4E75-BAF5-D37D70B374B8
@@ -52,7 +52,7 @@ The `config.plist` should now look something like this, there may be some other 
     <key>SpoofVendor</key>
     <true/>
     <key>SystemProductName</key>
-    <string>MacBookPro15,4</string>
+    <string>MacBookPro16,3</string>
     <key>SystemSerialNumber</key>
     <string>FVFYD0SHL40Y</string>
     <key>SystemUUID</key>
